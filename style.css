@@ -10,6 +10,7 @@ div{
     padding: 20px;
     width: 600px;
     box-shadow: 4px 4px 4px darkgreen;
+    border-radius: 5%;
 }
 div:hover{
     color: yellowgreen;
