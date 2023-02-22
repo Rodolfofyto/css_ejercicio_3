@@ -2,6 +2,16 @@
     margin: 0;
     padding: o;
 }
+body{
+    background-color: blue;
+}
 div{
     background-color: lightgrey;
+    padding: 20px;
+    width: 600px;
+    box-shadow: 4px 4px 4px darkgreen;
+}
+div:hover{
+    color: yellowgreen;
+    transform: scale(1,5);
 }
